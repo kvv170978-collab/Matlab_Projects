@@ -1,0 +1,10 @@
+clc;
+clear all;
+close all;
+a=25;
+b=30;
+z=a+b;
+y=a-b;
+w=a*b;
+x=a/b;
+disp('Karla first script in git');
